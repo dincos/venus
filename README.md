@@ -1,2 +1,2 @@
 # venus
-Venus Framework
+Venus Framework是基于DDD的快速开发模块化框架
